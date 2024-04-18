@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Server_Client\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAEC829-E739-46BB-8224-D996D09B34FF}|Client_2\\Client_2.vcxproj|E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Server_Client\\Server\\Client_2\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CAEC829-E739-46BB-8224-D996D09B34FF}|Client_2\\Client_2.vcxproj|solutionrelative:Client_2\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959FA93-459C-48AB-87D2-5771FC97019F}|Server\\Server.vcxproj|E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Server_Client\\Server\\Server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0959FA93-459C-48AB-87D2-5771FC97019F}|Server\\Server.vcxproj|solutionrelative:Server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 308,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cpp",
+              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Server_Client\\Server\\Client_2\\client.cpp",
+              "RelativeDocumentMoniker": "Client_2\\client.cpp",
+              "ToolTip": "E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Server_Client\\Server\\Client_2\\client.cpp",
+              "RelativeToolTip": "Client_2\\client.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T09:10:18.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.cpp",
+              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Server_Client\\Server\\Server\\server.cpp",
+              "RelativeDocumentMoniker": "Server\\server.cpp",
+              "ToolTip": "E:\\\u8BA1\u7B97\u673A\\2024.4.9-project\\Server_Client\\Server\\Server\\server.cpp",
+              "RelativeToolTip": "Server\\server.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T08:04:15.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
